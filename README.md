@@ -1,5 +1,5 @@
 # 😀😔😡🤢 Emotion Detector
-### See if you are happy, sad, angry, or disgusted!
+### See if you are happy, sad, angry, disgusted, or even surprised!
 
 Built with the Roboflow ```inference``` API and pipelines.
 
